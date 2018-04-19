@@ -1,0 +1,5 @@
+@startuml
+用户认证 -> UrlAuthUserService: loadUserByUsername(String username)
+UrlAuthUserService -> UrlGrantedAuthority :UrlGrantedAuthority (String permissionUrl, String method)
+UrlAuthUserService -> WebSecurityConfig : configure(AuthenticationManagerBuilder auth)
+@enduml
