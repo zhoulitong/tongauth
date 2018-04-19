@@ -19,4 +19,4 @@
 * 登录授权
 ![输入图片说明](https://gitee.com/uploads/images/2018/0419/115253_4547b1d8_1224684.png "1.png")
 * 登录认证思维导图
-![输入图片说明](https://gitee.com/uploads/images/2018/0419/115120_a60ee04d_1224684.jpeg "认证.jpg")]
+![输入图片说明](https://gitee.com/uploads/images/2018/0419/115120_a60ee04d_1224684.jpeg "认证.jpg")
